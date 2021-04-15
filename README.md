@@ -1,6 +1,10 @@
 # CSC431-Final-Project
 <br>
 
+### Info  
+
+This project is an assignment for the __CSC431 Software Engineering__ course taught at the University of Miami, Spring 2021. 
+
 #### Documents: 
 - [SRS Doc](/documents/SRS.pdf)
 - [SAS Doc](/documents/SAS.pdf)
@@ -15,7 +19,3 @@
 * Yasir Nemat
 * Grant Yaniv
 * Allegra Papera
-
-### Info  
-
-This project is an assignment for the __CSC431 Software Engineering__ course taught at the University of Miami, Spring 2021. 
