@@ -4,11 +4,11 @@
 #### Documents: 
 - [SRS Doc](/documents/SRS.pdf)
 - [SAS Doc](/documents/SAS.docx)
-- [Project Proposal](documents/Project Proposal.docx)
+- [Project Proposal](/documents/Project Proposal.docx)
 
 #### Presenations:
-- [Midterm Presentation](presentations/Midterm Presentation.docx)
-- [Final Presentation](presentations/Final Presentation.pptx)
+- [Midterm Presentation](/presentations/Midterm Presentation.pptx)
+- [Final Presentation](/presentations/Final Presentation.pptx)
 
 ### Team Members 
 
