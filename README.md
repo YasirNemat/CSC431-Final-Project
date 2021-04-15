@@ -8,7 +8,7 @@ This project is an assignment for the __CSC431 Software Engineering__ course tau
 #### Documents: 
 - [SRS Doc](/documents/SRS.pdf)
 - [SAS Doc](/documents/SAS.pdf)
-- [Project Proposal](/documents/Project%20Proposal.docx)
+- [Project Proposal](/documents/Project%20Proposal.pdf)
 
 #### Presentations:
 - [Midterm Presentation](/presentations/Midterm%20Presentation.pptx)
