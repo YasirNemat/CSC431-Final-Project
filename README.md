@@ -10,7 +10,7 @@
 - [Midterm Presentation](/presentations/Midterm%20Presentation.pptx)
 - [Final Presentation](/presentations/Final%20Presentation.pptx)
 
-### Team Members 
+#### Team Members 
 
 * Yasir Nemat
 * Grant Yaniv
